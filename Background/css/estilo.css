@@ -1,0 +1,31 @@
+.bloco1{
+    height: 400px;
+    width: 50%;
+    background-color: gray;
+    background-image: url("../imgs/img.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bloco2{
+    height: 400px;
+    width: 50%;
+    background: gray url("../imgs/img.png") no-repeat center;
+    background-size: contain;
+}
+
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}

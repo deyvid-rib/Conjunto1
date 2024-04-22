@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    background-color: darkmagenta;
+}
+h1{
+    font-size: 60px;
+    color: magenta;
+}
+h2{
+    font-size: 40px;
+    color: magenta;
+}
+p{
+    font-size: 25px;
+    color: magenta;
+}
+a{
+    font-size: 25px;
+    color: magenta;
+    background-color: rgb(61, 61, 61);
+}
+li{
+    text-align: left;
+    font-size: 25px;
+    color: magenta;
+}

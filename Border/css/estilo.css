@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: black;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+div{
+    border: 5px solid white;
+    background-color: black;
+}
+
+.autor{
+    border: 5px dashed white;
+    border-radius: 50%;
+}

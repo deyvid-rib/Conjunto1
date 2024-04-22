@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+    color: white;
+}
+
+a, p{
+    font-size: 25px;
+    color: white;
+}

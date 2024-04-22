@@ -1,0 +1,27 @@
+body{
+    background-color: darkred;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+    color: white;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+#lista{
+    font-size: 25px;
+    color: white;
+}

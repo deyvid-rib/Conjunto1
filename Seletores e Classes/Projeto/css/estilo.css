@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+.cenoura{
+    color: orangered;
+}
+
+.milho{
+    color: gold;
+}
+
+.autor{
+    color: crimson;
+}
+
+.fonte-40{
+    font-size: 40px;
+}
+
+.fonte-30{
+    font-size: 30px;
+}
+
+.fonte-20{
+    font-size: 20px;
+}
